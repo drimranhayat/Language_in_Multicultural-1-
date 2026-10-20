@@ -1,0 +1,1762 @@
+[
+  {
+    "lecture": 1,
+    "slide": 1,
+    "title": "Course introduction",
+    "status": "Orientation",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 2,
+    "title": "Language as symbolic, systematic and communicative",
+    "status": "Taught and tested",
+    "note": "Vocal-only and meaningless-by-itself wording is corrected; conventional form-meaning links are explained.",
+    "conceptIds": [
+      "LM1-C01",
+      "LM4-C22",
+      "LM4-C16",
+      "LM1-C42"
+    ],
+    "questionIds": [
+      "LM1-001",
+      "LM4-085",
+      "LM4-061",
+      "LM1-165"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 3,
+    "title": "Language as symbolic, systematic and communicative",
+    "status": "Taught and tested",
+    "note": "Vocal-only and meaningless-by-itself wording is corrected; conventional form-meaning links are explained.",
+    "conceptIds": [
+      "LM1-C01",
+      "LM4-C22",
+      "LM4-C16",
+      "LM1-C42"
+    ],
+    "questionIds": [
+      "LM1-001",
+      "LM4-085",
+      "LM4-061",
+      "LM1-165"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 4,
+    "title": "Language-count classifications",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C02",
+      "LM1-C03",
+      "LM1-C04"
+    ],
+    "questionIds": [
+      "LM1-005",
+      "LM1-009",
+      "LM1-013"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 5,
+    "title": "Monolingualism",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C02"
+    ],
+    "questionIds": [
+      "LM1-005"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 6,
+    "title": "Heterogeneous bilingual profiles",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C03",
+      "LM1-C13"
+    ],
+    "questionIds": [
+      "LM1-009",
+      "LM1-049"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 7,
+    "title": "Frequency, proficiency, language choice and maintenance",
+    "status": "Taught and tested",
+    "note": "The unsourced worldwide percentage and fixed age for language choice are not taught as established universal facts.",
+    "conceptIds": [
+      "LM1-C38",
+      "LM1-C45",
+      "LM1-C34"
+    ],
+    "questionIds": [
+      "LM1-149",
+      "LM1-177",
+      "LM1-133"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 8,
+    "title": "Successive, simultaneous and receptive categories, including image",
+    "status": "Taught and tested",
+    "note": "The text duplicates successive/sequential; the image supplies simultaneous. Acquisition sequence and ability are distinct axes.",
+    "conceptIds": [
+      "LM1-C08",
+      "LM1-C07",
+      "LM1-C11"
+    ],
+    "questionIds": [
+      "LM1-029",
+      "LM1-025",
+      "LM1-041"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 9,
+    "title": "Successive, simultaneous and receptive categories, including image",
+    "status": "Taught and tested",
+    "note": "The text duplicates successive/sequential; the image supplies simultaneous. Acquisition sequence and ability are distinct axes.",
+    "conceptIds": [
+      "LM1-C08",
+      "LM1-C07",
+      "LM1-C11"
+    ],
+    "questionIds": [
+      "LM1-029",
+      "LM1-025",
+      "LM1-041"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 10,
+    "title": "Types and timing of bilingual acquisition",
+    "status": "Taught and tested",
+    "note": "Infant, child, adolescent and adult are descriptive groups; no universal 6–7 birthday boundary or additive guarantee is imposed.",
+    "conceptIds": [
+      "LM1-C09",
+      "LM1-C10",
+      "LM1-C07",
+      "LM1-C08"
+    ],
+    "questionIds": [
+      "LM1-033",
+      "LM1-037",
+      "LM1-025",
+      "LM1-029"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 11,
+    "title": "Types and timing of bilingual acquisition",
+    "status": "Taught and tested",
+    "note": "Infant, child, adolescent and adult are descriptive groups; no universal 6–7 birthday boundary or additive guarantee is imposed.",
+    "conceptIds": [
+      "LM1-C09",
+      "LM1-C10",
+      "LM1-C07",
+      "LM1-C08"
+    ],
+    "questionIds": [
+      "LM1-033",
+      "LM1-037",
+      "LM1-025",
+      "LM1-029"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 12,
+    "title": "Types and timing of bilingual acquisition",
+    "status": "Taught and tested",
+    "note": "Infant, child, adolescent and adult are descriptive groups; no universal 6–7 birthday boundary or additive guarantee is imposed.",
+    "conceptIds": [
+      "LM1-C09",
+      "LM1-C10",
+      "LM1-C07",
+      "LM1-C08"
+    ],
+    "questionIds": [
+      "LM1-033",
+      "LM1-037",
+      "LM1-025",
+      "LM1-029"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 13,
+    "title": "Types and timing of bilingual acquisition",
+    "status": "Taught and tested",
+    "note": "Infant, child, adolescent and adult are descriptive groups; no universal 6–7 birthday boundary or additive guarantee is imposed.",
+    "conceptIds": [
+      "LM1-C09",
+      "LM1-C10",
+      "LM1-C07",
+      "LM1-C08"
+    ],
+    "questionIds": [
+      "LM1-033",
+      "LM1-037",
+      "LM1-025",
+      "LM1-029"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 14,
+    "title": "Additive, subtractive and passive/receptive ability",
+    "status": "Taught and tested",
+    "note": "Additive is distinguished from balanced; passive is explained through receptive abilities.",
+    "conceptIds": [
+      "LM1-C15",
+      "LM1-C16",
+      "LM1-C11"
+    ],
+    "questionIds": [
+      "LM1-057",
+      "LM1-061",
+      "LM1-041"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 15,
+    "title": "Dominant and balanced profiles",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C13",
+      "LM1-C14"
+    ],
+    "questionIds": [
+      "LM1-049",
+      "LM1-053"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 16,
+    "title": "Historical limited-bilingual/semilingual account",
+    "status": "Taught and tested",
+    "note": "The six listed areas are retained for specific inquiry; the deficit label is not treated as a clinical diagnosis.",
+    "conceptIds": [
+      "LM1-C41"
+    ],
+    "questionIds": [
+      "LM1-161"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 17,
+    "title": "Language mixing and terminology",
+    "status": "Taught and tested",
+    "note": "Definitions overlap across authors; the convention is specified in exam items.",
+    "conceptIds": [
+      "LM1-C29",
+      "LM1-C30",
+      "LM1-C31"
+    ],
+    "questionIds": [
+      "LM1-113",
+      "LM1-117",
+      "LM1-121"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 18,
+    "title": "Language mixing and terminology",
+    "status": "Taught and tested",
+    "note": "Definitions overlap across authors; the convention is specified in exam items.",
+    "conceptIds": [
+      "LM1-C29",
+      "LM1-C30",
+      "LM1-C31"
+    ],
+    "questionIds": [
+      "LM1-113",
+      "LM1-117",
+      "LM1-121"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 19,
+    "title": "Cognitive-benefit claims and infographic",
+    "status": "Taught and tested",
+    "note": "Language, practical and social benefits are separated from universal cognitive superiority, personality or achievement claims.",
+    "conceptIds": [
+      "LM1-C37",
+      "LM1-C38"
+    ],
+    "questionIds": [
+      "LM1-145",
+      "LM1-149"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 20,
+    "title": "Cognitive-benefit claims and infographic",
+    "status": "Taught and tested",
+    "note": "Language, practical and social benefits are separated from universal cognitive superiority, personality or achievement claims.",
+    "conceptIds": [
+      "LM1-C37",
+      "LM1-C38"
+    ],
+    "questionIds": [
+      "LM1-145",
+      "LM1-149"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 21,
+    "title": "Multilingualism and polyglot",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C04",
+      "LM1-C06",
+      "LM1-C05"
+    ],
+    "questionIds": [
+      "LM1-013",
+      "LM1-021",
+      "LM1-017"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 22,
+    "title": "English-Mandarin-Cantonese household image",
+    "status": "Taught and tested",
+    "note": "The figure illustrates opportunity, not guaranteed equal trilingual outcomes.",
+    "conceptIds": [
+      "LM1-C05",
+      "LM2-C04"
+    ],
+    "questionIds": [
+      "LM1-017",
+      "LM2-013"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 23,
+    "title": "Additive/subtractive multilingualism image",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C15",
+      "LM1-C16"
+    ],
+    "questionIds": [
+      "LM1-057",
+      "LM1-061"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 24,
+    "title": "Purposes of multilingualism infographic",
+    "status": "Taught and tested",
+    "note": "Mobility, employment, study, personal growth and understanding are possible purposes, not guaranteed individual outcomes.",
+    "conceptIds": [
+      "LM3-C39",
+      "LM1-C23"
+    ],
+    "questionIds": [
+      "LM3-153",
+      "LM1-089"
+    ],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 1,
+    "slide": 25,
+    "title": "Closing image",
+    "status": "Closing/decorative",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/1"
+  },
+  {
+    "lecture": 2,
+    "slide": 1,
+    "title": "Opening and presenter information",
+    "status": "Orientation",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 2,
+    "title": "Opening and presenter information",
+    "status": "Orientation",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 3,
+    "title": "Development, proficiency and age myths",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM2-C01",
+      "LM1-C03",
+      "LM1-C10",
+      "LM3-C39"
+    ],
+    "questionIds": [
+      "LM2-001",
+      "LM1-009",
+      "LM1-037",
+      "LM3-153"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 4,
+    "title": "Dropping languages and dominance claims",
+    "status": "Taught and tested",
+    "note": "No exposure percentage establishes dominance or a universal permanent-harm rule. Clinical needs are assessed individually.",
+    "conceptIds": [
+      "LM2-C06",
+      "LM1-C40",
+      "LM2-C38"
+    ],
+    "questionIds": [
+      "LM2-021",
+      "LM1-157",
+      "LM2-149"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 5,
+    "title": "Dropping languages and dominance claims",
+    "status": "Taught and tested",
+    "note": "No exposure percentage establishes dominance or a universal permanent-harm rule. Clinical needs are assessed individually.",
+    "conceptIds": [
+      "LM2-C06",
+      "LM1-C40",
+      "LM2-C38"
+    ],
+    "questionIds": [
+      "LM2-021",
+      "LM1-157",
+      "LM2-149"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 6,
+    "title": "Instrument-learning analogy",
+    "status": "Taught and tested",
+    "note": "The analogy illustrates why abandoning one skill is not itself teaching another; it is not causal evidence.",
+    "conceptIds": [
+      "LM1-C33",
+      "LM2-C06"
+    ],
+    "questionIds": [
+      "LM1-129",
+      "LM2-021"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 7,
+    "title": "Optional enrichment and individualized decisions",
+    "status": "Taught and tested",
+    "note": "School/enrichment choices can be reconsidered collaboratively; the text is not a general instruction to eliminate a language.",
+    "conceptIds": [
+      "LM2-C38",
+      "LM2-C11"
+    ],
+    "questionIds": [
+      "LM2-149",
+      "LM2-041"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 8,
+    "title": "Home language, mixed speech and family strategy myths",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM2-C07",
+      "LM2-C09",
+      "LM2-C10"
+    ],
+    "questionIds": [
+      "LM2-025",
+      "LM2-033",
+      "LM2-037"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 9,
+    "title": "Intervention languages, shared/contrastive features and transfer",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM2-C12",
+      "LM2-C13",
+      "LM2-C15",
+      "LM2-C16",
+      "LM2-C25"
+    ],
+    "questionIds": [
+      "LM2-045",
+      "LM2-049",
+      "LM2-057",
+      "LM2-061",
+      "LM2-097"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 10,
+    "title": "Concepts, vocabulary, interests, illustration and stories",
+    "status": "Taught and tested",
+    "note": "Vocabulary is not banned; story structures and illustrations require contextual and cultural checking.",
+    "conceptIds": [
+      "LM2-C18",
+      "LM2-C19",
+      "LM2-C22",
+      "LM2-C20"
+    ],
+    "questionIds": [
+      "LM2-069",
+      "LM2-073",
+      "LM2-085",
+      "LM2-077"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 11,
+    "title": "Repetition, home practice, accommodation and assimilation",
+    "status": "Taught and tested",
+    "note": "Ambiguous terms are separated into clinical access, sociocultural, schema-theory and communication-theory meanings.",
+    "conceptIds": [
+      "LM2-C21",
+      "LM2-C24",
+      "LM2-C39",
+      "LM2-C40",
+      "LM2-C42"
+    ],
+    "questionIds": [
+      "LM2-081",
+      "LM2-093",
+      "LM2-153",
+      "LM2-157",
+      "LM2-165"
+    ],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 2,
+    "slide": 12,
+    "title": "Closing",
+    "status": "Closing/decorative",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/2"
+  },
+  {
+    "lecture": 3,
+    "slide": 1,
+    "title": "Opening and presenter information",
+    "status": "Orientation",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 2,
+    "title": "Opening and presenter information",
+    "status": "Orientation",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 3,
+    "title": "Intergenerational proverb",
+    "status": "Taught and tested",
+    "note": "Used to discuss transmission; the unsourced attribution is not required as an exam fact.",
+    "conceptIds": [
+      "LM4-C51",
+      "LM1-C34"
+    ],
+    "questionIds": [
+      "LM4-201",
+      "LM1-133"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 4,
+    "title": "Independent-language and interference claims",
+    "status": "Taught and tested",
+    "note": "Language interaction is distinguished from the unsupported claim that two languages inherently prevent normal development.",
+    "conceptIds": [
+      "LM1-C33",
+      "LM3-C11",
+      "LM2-C01"
+    ],
+    "questionIds": [
+      "LM1-129",
+      "LM3-041",
+      "LM2-001"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 5,
+    "title": "Pre-production and early production",
+    "status": "Taught and tested",
+    "note": "Exact 500/1000-word and six-month quantities are presented as the slide teaching scheme, not validated diagnostic thresholds.",
+    "conceptIds": [
+      "LM3-C02",
+      "LM3-C03",
+      "LM3-C04",
+      "LM3-C08"
+    ],
+    "questionIds": [
+      "LM3-005",
+      "LM3-009",
+      "LM3-013",
+      "LM3-029"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 6,
+    "title": "Speech emergence, intermediate and advanced fluency",
+    "status": "Taught and tested",
+    "note": "Exact 3000/6000-word and elapsed-year figures are not universal individual milestones.",
+    "conceptIds": [
+      "LM3-C05",
+      "LM3-C06",
+      "LM3-C07",
+      "LM3-C08"
+    ],
+    "questionIds": [
+      "LM3-017",
+      "LM3-021",
+      "LM3-025",
+      "LM3-029"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 7,
+    "title": "Cummins proficiency concepts",
+    "status": "Taught and tested",
+    "note": "The conceptual history spans publications; a single slide year is not taught as exclusive provenance.",
+    "conceptIds": [
+      "LM3-C09",
+      "LM3-C10",
+      "LM3-C11"
+    ],
+    "questionIds": [
+      "LM3-033",
+      "LM3-037",
+      "LM3-041"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 8,
+    "title": "BICS and contextual cues",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM3-C09",
+      "LM3-C13",
+      "LM3-C22",
+      "LM4-C42"
+    ],
+    "questionIds": [
+      "LM3-033",
+      "LM3-049",
+      "LM3-085",
+      "LM4-165"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 9,
+    "title": "CALP, abstraction and literacy",
+    "status": "Taught and tested",
+    "note": "Academic tasks can also be scaffolded; context and cognitive demand are not identical dimensions.",
+    "conceptIds": [
+      "LM3-C10",
+      "LM3-C14",
+      "LM3-C28",
+      "LM3-C31"
+    ],
+    "questionIds": [
+      "LM3-037",
+      "LM3-053",
+      "LM3-109",
+      "LM3-121"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 10,
+    "title": "CUP and iceberg graphic",
+    "status": "Taught and tested",
+    "note": "The graphic is a metaphor, not literal localization or automatic transfer of all forms.",
+    "conceptIds": [
+      "LM3-C11",
+      "LM3-C12",
+      "LM3-C34"
+    ],
+    "questionIds": [
+      "LM3-041",
+      "LM3-045",
+      "LM3-133"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 11,
+    "title": "Benefits and research-appraisal task",
+    "status": "Taught and tested",
+    "note": "Benefits are tied to measured outcomes and opportunities; references guide appraisal without fabricated findings.",
+    "conceptIds": [
+      "LM3-C38",
+      "LM3-C39",
+      "LM3-C40"
+    ],
+    "questionIds": [
+      "LM3-149",
+      "LM3-153",
+      "LM3-157"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 12,
+    "title": "Benefits and research-appraisal task",
+    "status": "Taught and tested",
+    "note": "Benefits are tied to measured outcomes and opportunities; references guide appraisal without fabricated findings.",
+    "conceptIds": [
+      "LM3-C38",
+      "LM3-C39",
+      "LM3-C40"
+    ],
+    "questionIds": [
+      "LM3-149",
+      "LM3-153",
+      "LM3-157"
+    ],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 3,
+    "slide": 13,
+    "title": "Closing",
+    "status": "Closing/decorative",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/3"
+  },
+  {
+    "lecture": 4,
+    "slide": 1,
+    "title": "Opening with anthropology/Boas notes",
+    "status": "Taught and tested",
+    "note": "Notes retained; sole-first-scientist and universal father claims are qualified.",
+    "conceptIds": [
+      "LM4-C05",
+      "LM4-C54"
+    ],
+    "questionIds": [
+      "LM4-017",
+      "LM4-213"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 2,
+    "title": "Language and cultural practice, including notes",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C06",
+      "LM4-C14"
+    ],
+    "questionIds": [
+      "LM4-021",
+      "LM4-053"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 3,
+    "title": "Idealist, materialist and omnibus definitions",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C02",
+      "LM4-C03",
+      "LM4-C04"
+    ],
+    "questionIds": [
+      "LM4-005",
+      "LM4-009",
+      "LM4-013"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 4,
+    "title": "Culture wheel and arbitrary/dynamic notes",
+    "status": "Taught and tested",
+    "note": "Everyday dictionary/programming meanings of arbitrary and dynamic are distinguished from the intended linguistic/cultural meanings.",
+    "conceptIds": [
+      "LM4-C01",
+      "LM4-C16",
+      "LM4-C07"
+    ],
+    "questionIds": [
+      "LM4-001",
+      "LM4-061",
+      "LM4-025"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 5,
+    "title": "Culture and overlapping social categories",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C01",
+      "LM4-C09",
+      "LM4-C10",
+      "LM4-C11"
+    ],
+    "questionIds": [
+      "LM4-001",
+      "LM4-033",
+      "LM4-037",
+      "LM4-041"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 6,
+    "title": "Word history and broad cultural groupings",
+    "status": "Taught and tested",
+    "note": "Colere is explained through cultivation/tending; Eastern/Western/African labels are not treated as uniform individual cultures.",
+    "conceptIds": [
+      "LM4-C55",
+      "LM4-C08"
+    ],
+    "questionIds": [
+      "LM4-217",
+      "LM4-029"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 7,
+    "title": "Individual cultural experience",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C08",
+      "LM4-C13"
+    ],
+    "questionIds": [
+      "LM4-029",
+      "LM4-049"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 8,
+    "title": "Language-identity quotation",
+    "status": "Idea discussed; attribution not assessed",
+    "note": "The broad idea is discussed; exact wording and attribution are not reused as verified quotations.",
+    "conceptIds": [
+      "LM4-C14"
+    ],
+    "questionIds": [
+      "LM4-053"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 9,
+    "title": "Language/culture image and relationship",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C14",
+      "LM4-C06"
+    ],
+    "questionIds": [
+      "LM4-053",
+      "LM4-021"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 10,
+    "title": "Language/culture image and relationship",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C14",
+      "LM4-C06"
+    ],
+    "questionIds": [
+      "LM4-053",
+      "LM4-021"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 11,
+    "title": "Identity, loyalty, proverbs, idioms, jokes and extinction",
+    "status": "Taught and tested",
+    "note": "Loyalty does not guarantee transmission; dialects are not immune to decline or extinction.",
+    "conceptIds": [
+      "LM4-C13",
+      "LM4-C51",
+      "LM4-C52",
+      "LM4-C53",
+      "LM5-C53"
+    ],
+    "questionIds": [
+      "LM4-049",
+      "LM4-201",
+      "LM4-205",
+      "LM4-209",
+      "LM5-209"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 12,
+    "title": "Language and modalities",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM1-C01",
+      "LM4-C22"
+    ],
+    "questionIds": [
+      "LM1-001",
+      "LM4-085"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 13,
+    "title": "Six language properties",
+    "status": "Taught and tested",
+    "note": "Multiply structured is taught cautiously through levels; the slide does not specify one exclusive technical definition.",
+    "conceptIds": [
+      "LM4-C21",
+      "LM4-C16",
+      "LM4-C17",
+      "LM4-C56",
+      "LM4-C18",
+      "LM4-C19",
+      "LM4-C20"
+    ],
+    "questionIds": [
+      "LM4-081",
+      "LM4-061",
+      "LM4-065",
+      "LM4-221",
+      "LM4-069",
+      "LM4-073",
+      "LM4-077"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 14,
+    "title": "Infant perception, early vocabulary and word combinations",
+    "status": "Taught and tested",
+    "note": "Rigid month/count rules are replaced with approximate developmental expectations and appropriate evaluation of concerns.",
+    "conceptIds": [
+      "LM4-C25",
+      "LM4-C26",
+      "LM4-C27"
+    ],
+    "questionIds": [
+      "LM4-097",
+      "LM4-101",
+      "LM4-105"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 15,
+    "title": "Preschool semantics and later growth",
+    "status": "Taught and tested",
+    "note": "No fixed thirteen-words-per-day rate is treated as an individual rule, and semantic growth is not the sole cause of grammatical development.",
+    "conceptIds": [
+      "LM4-C57",
+      "LM4-C28"
+    ],
+    "questionIds": [
+      "LM4-225",
+      "LM4-109"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 16,
+    "title": "Sociolinguistics and dialect equality",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C29",
+      "LM5-C01",
+      "LM5-C08"
+    ],
+    "questionIds": [
+      "LM4-113",
+      "LM5-001",
+      "LM5-029"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 17,
+    "title": "Social, ethnic, peer, geographic and first-language influences",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C30",
+      "LM4-C34",
+      "LM5-C16",
+      "LM5-C04",
+      "LM1-C33"
+    ],
+    "questionIds": [
+      "LM4-117",
+      "LM4-133",
+      "LM5-061",
+      "LM5-013",
+      "LM1-129"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 18,
+    "title": "Social, ethnic, peer, geographic and first-language influences",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C30",
+      "LM4-C34",
+      "LM5-C16",
+      "LM5-C04",
+      "LM1-C33"
+    ],
+    "questionIds": [
+      "LM4-117",
+      "LM4-133",
+      "LM5-061",
+      "LM5-013",
+      "LM1-129"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 19,
+    "title": "Age and gender claims",
+    "status": "Taught and tested",
+    "note": "Universal male/female complexity and topic stereotypes are explicitly corrected.",
+    "conceptIds": [
+      "LM4-C31",
+      "LM4-C32"
+    ],
+    "questionIds": [
+      "LM4-121",
+      "LM4-125"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 20,
+    "title": "Social class and educational access",
+    "status": "Taught and tested",
+    "note": "Institutional valuation is distinguished from linguistic capacity and structural complexity.",
+    "conceptIds": [
+      "LM4-C33"
+    ],
+    "questionIds": [
+      "LM4-129"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 21,
+    "title": "Regional identity and context-sensitive adjustment",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C04",
+      "LM5-C19",
+      "LM5-C13"
+    ],
+    "questionIds": [
+      "LM5-013",
+      "LM5-073",
+      "LM5-049"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 22,
+    "title": "African American English and immigrant-associated forms",
+    "status": "Taught and tested",
+    "note": "Stigmatized forms are described systematically; omission is constrained, and immigrant histories are not uniform.",
+    "conceptIds": [
+      "LM4-C35",
+      "LM4-C36",
+      "LM4-C37",
+      "LM1-C33"
+    ],
+    "questionIds": [
+      "LM4-137",
+      "LM4-141",
+      "LM4-145",
+      "LM1-129"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 23,
+    "title": "Context, purpose, role, first language and peers",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C17",
+      "LM1-C29",
+      "LM5-C16"
+    ],
+    "questionIds": [
+      "LM5-065",
+      "LM1-113",
+      "LM5-061"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 24,
+    "title": "Taboo graphic, social and linguistic restriction",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C38",
+      "LM4-C39"
+    ],
+    "questionIds": [
+      "LM4-149",
+      "LM4-153"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 25,
+    "title": "Taboo graphic, social and linguistic restriction",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C38",
+      "LM4-C39"
+    ],
+    "questionIds": [
+      "LM4-149",
+      "LM4-153"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 26,
+    "title": "Gesture, gaze, space, religious and food examples",
+    "status": "Taught and tested",
+    "note": "Lists are examples for inquiry, not universal behavior or religious/legal rulings. Individual practices and contexts vary.",
+    "conceptIds": [
+      "LM4-C42",
+      "LM4-C43",
+      "LM4-C44",
+      "LM4-C50"
+    ],
+    "questionIds": [
+      "LM4-165",
+      "LM4-169",
+      "LM4-173",
+      "LM4-197"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 27,
+    "title": "Gesture, gaze, space, religious and food examples",
+    "status": "Taught and tested",
+    "note": "Lists are examples for inquiry, not universal behavior or religious/legal rulings. Individual practices and contexts vary.",
+    "conceptIds": [
+      "LM4-C42",
+      "LM4-C43",
+      "LM4-C44",
+      "LM4-C50"
+    ],
+    "questionIds": [
+      "LM4-165",
+      "LM4-169",
+      "LM4-173",
+      "LM4-197"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 28,
+    "title": "Euphemism and taboo relationship",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C40",
+      "LM4-C39",
+      "LM4-C41"
+    ],
+    "questionIds": [
+      "LM4-157",
+      "LM4-153",
+      "LM4-161"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 29,
+    "title": "Euphemism and taboo relationship",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C40",
+      "LM4-C39",
+      "LM4-C41"
+    ],
+    "questionIds": [
+      "LM4-157",
+      "LM4-153",
+      "LM4-161"
+    ],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 4,
+    "slide": 30,
+    "title": "Closing",
+    "status": "Closing/decorative",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/4"
+  },
+  {
+    "lecture": 5,
+    "slide": 1,
+    "title": "Dialect definition and significance in notes",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C01"
+    ],
+    "questionIds": [
+      "LM5-001"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 2,
+    "title": "Word history and jargon notes",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C52",
+      "LM5-C18"
+    ],
+    "questionIds": [
+      "LM5-205",
+      "LM5-069"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 3,
+    "title": "Levels, speech communities and everyone speaking a dialect",
+    "status": "Taught and tested",
+    "note": "The linguistic principle is taught without requiring unsupported exact quotations.",
+    "conceptIds": [
+      "LM5-C01",
+      "LM5-C02",
+      "LM5-C14",
+      "LM5-C08"
+    ],
+    "questionIds": [
+      "LM5-001",
+      "LM5-005",
+      "LM5-053",
+      "LM5-029"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 4,
+    "title": "Levels, speech communities and everyone speaking a dialect",
+    "status": "Taught and tested",
+    "note": "The linguistic principle is taught without requiring unsupported exact quotations.",
+    "conceptIds": [
+      "LM5-C01",
+      "LM5-C02",
+      "LM5-C14",
+      "LM5-C08"
+    ],
+    "questionIds": [
+      "LM5-001",
+      "LM5-005",
+      "LM5-053",
+      "LM5-029"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 5,
+    "title": "Language/dialect labels and social status",
+    "status": "Taught and tested",
+    "note": "Writing, statehood and prestige influence labels but are not necessary conditions for linguistic legitimacy.",
+    "conceptIds": [
+      "LM5-C03",
+      "LM5-C47",
+      "LM5-C24"
+    ],
+    "questionIds": [
+      "LM5-009",
+      "LM5-185",
+      "LM5-093"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 6,
+    "title": "Language/dialect labels and social status",
+    "status": "Taught and tested",
+    "note": "Writing, statehood and prestige influence labels but are not necessary conditions for linguistic legitimacy.",
+    "conceptIds": [
+      "LM5-C03",
+      "LM5-C47",
+      "LM5-C24"
+    ],
+    "questionIds": [
+      "LM5-009",
+      "LM5-185",
+      "LM5-093"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 7,
+    "title": "Sociolect, regiolect and topolect",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C05",
+      "LM5-C07"
+    ],
+    "questionIds": [
+      "LM5-017",
+      "LM5-025"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 8,
+    "title": "Geographic variation",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C04",
+      "LM5-C23"
+    ],
+    "questionIds": [
+      "LM5-013",
+      "LM5-089"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 9,
+    "title": "Social variation and group affiliation",
+    "status": "Taught and tested",
+    "note": "Caste, gender, religion, age and class may be relevant in context, not rigid predictors of every speaker.",
+    "conceptIds": [
+      "LM5-C05",
+      "LM4-C30",
+      "LM4-C34"
+    ],
+    "questionIds": [
+      "LM5-017",
+      "LM4-117",
+      "LM4-133"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 10,
+    "title": "Education, occupation and class, including cartoon",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C33",
+      "LM5-C12"
+    ],
+    "questionIds": [
+      "LM4-129",
+      "LM5-045"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 11,
+    "title": "Sociolinguistic inquiry",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C29"
+    ],
+    "questionIds": [
+      "LM4-113"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 12,
+    "title": "Standard and nonstandard varieties",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C08",
+      "LM5-C09",
+      "LM5-C11"
+    ],
+    "questionIds": [
+      "LM5-029",
+      "LM5-033",
+      "LM5-041"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 13,
+    "title": "Age and gender examples",
+    "status": "Taught and tested",
+    "note": "The printed male/female examples do not establish a universal grammatical distinction.",
+    "conceptIds": [
+      "LM4-C32",
+      "LM5-C48"
+    ],
+    "questionIds": [
+      "LM4-125",
+      "LM5-189"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 14,
+    "title": "Idiolect, voice quality and physical/social factors",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C06",
+      "LM5-C29"
+    ],
+    "questionIds": [
+      "LM5-021",
+      "LM5-113"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 15,
+    "title": "Idiolect, voice quality and physical/social factors",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C06",
+      "LM5-C29"
+    ],
+    "questionIds": [
+      "LM5-021",
+      "LM5-113"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 16,
+    "title": "Intercultural verbal/nonverbal communication",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM4-C45",
+      "LM4-C42"
+    ],
+    "questionIds": [
+      "LM4-177",
+      "LM4-165"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 17,
+    "title": "Shahpuri and Jhangochi labels",
+    "status": "Taught and tested",
+    "note": "Approximate associations retained; oldest and precise mixture/boundary claims are qualified.",
+    "conceptIds": [
+      "LM5-C30",
+      "LM5-C31"
+    ],
+    "questionIds": [
+      "LM5-117",
+      "LM5-121"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 18,
+    "title": "Jangli/Rachnavi and Malwai labels",
+    "status": "Taught and tested",
+    "note": "Names, social connotations, regional variation and migration are distinguished.",
+    "conceptIds": [
+      "LM5-C32",
+      "LM5-C33"
+    ],
+    "questionIds": [
+      "LM5-125",
+      "LM5-129"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 19,
+    "title": "Doabi, Pothwari and Derawali labels",
+    "status": "Taught and tested",
+    "note": "Historical association is not a residence rule; language-versus-dialect classifications are source-sensitive.",
+    "conceptIds": [
+      "LM5-C34",
+      "LM5-C35",
+      "LM5-C36"
+    ],
+    "questionIds": [
+      "LM5-133",
+      "LM5-137",
+      "LM5-141"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 20,
+    "title": "Hindko/Kohati/Peshawari, Thali and Chenavari",
+    "status": "Taught and tested",
+    "note": "The broad umbrella is not imposed as uncontested taxonomy; exact borders and quantitative mixture are not asserted.",
+    "conceptIds": [
+      "LM5-C37",
+      "LM5-C54",
+      "LM5-C38",
+      "LM5-C39"
+    ],
+    "questionIds": [
+      "LM5-145",
+      "LM5-213",
+      "LM5-149",
+      "LM5-153"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 21,
+    "title": "Variety across region, society and situation",
+    "status": "Taught and tested",
+    "note": "",
+    "conceptIds": [
+      "LM5-C03",
+      "LM5-C17"
+    ],
+    "questionIds": [
+      "LM5-009",
+      "LM5-065"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 22,
+    "title": "Language/dialect ambiguity and seven criteria",
+    "status": "Taught and tested",
+    "note": "Criteria are interpretive dimensions rather than a mechanical test of linguistic legitimacy or speaker intelligence.",
+    "conceptIds": [
+      "LM5-C10",
+      "LM5-C41",
+      "LM5-C42",
+      "LM5-C43",
+      "LM5-C44",
+      "LM5-C45",
+      "LM5-C46"
+    ],
+    "questionIds": [
+      "LM5-037",
+      "LM5-161",
+      "LM5-165",
+      "LM5-169",
+      "LM5-173",
+      "LM5-177",
+      "LM5-181"
+    ],
+    "essayRoute": "#essays/5"
+  },
+  {
+    "lecture": 5,
+    "slide": 23,
+    "title": "Closing image",
+    "status": "Closing/decorative",
+    "note": "",
+    "conceptIds": [],
+    "questionIds": [],
+    "essayRoute": "#essays/5"
+  }
+]

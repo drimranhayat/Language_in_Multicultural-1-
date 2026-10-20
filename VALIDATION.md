@@ -1,0 +1,11 @@
+# Validation record — revised edition
+
+Passed data checks: 839 unique IDs; four unique options and valid canonical answer indices; explanation and option-rationale presence; 238 valid concept links, comparative definitions, examples and retrieval models; correct module totals; gradual editorial difficulty ordering; source-ID integrity; five essays above 1,000 words each; JSON/JavaScript parity for questions and essays; local SVG rendering without undefined assets; progress transitions; foreign-course backup rejection; and 0–1200-item pagination at 10/20/50/100. Canonical key positions are distributed 194 / 199 / 217 / 229 before runtime shuffling.
+
+Passed coverage checks: exactly slides 1–25, 1–12, 1–13, 1–30 and 1–23 for the five decks, with no missing or duplicate slide numbers. Every mapped concept and practice ID exists. Slide claims are qualified explicitly where needed. These structural checks supplement the content audit and do not constitute independent specialist certification.
+
+Passed integration checks: saved preferences, page sizes, active-question preservation, instant feedback, stable displayed order during feedback, duplicate-click guard, next-question/page navigation, final remainder page, deep links, wrong-answer correction, bookmarks, essay controls, precise single-concept routes and the 103-slide map.
+
+Mock-exam checks passed: balanced module selection for 25/50/100, unique eligible IDs, saved-draft validation, hidden explanations before submission, changed selections before submission, correct/incorrect and unanswered scoring, result review, draft restoration and duplicate-submission protection. Written models are learning examples, not validated institutional marking schemes.
+
+JavaScript syntax checks passed. Existing core semantic and module color pairs were computed above 4.5:1 against their tested day/night backgrounds; new exam controls use the same tokens. Browser preview remains unavailable. Actual visual layout, real-device rendering, touch interaction, keyboard behavior and screen-reader interpretation were not browser-tested or independently accessibility-certified. No claim of official past-paper alignment or empirical item-difficulty calibration is made.
